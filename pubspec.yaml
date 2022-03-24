@@ -63,7 +63,8 @@ flutter:
     - lib/src/img/Grupo_910.png
     - lib/src/img/Logo_background_gradient.png
     - lib/src/img/Monkey_face.png
-
+    - lib/src/img/Shaped_subtraction.png
+    - lib/src/img/Sustraccion_2.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
